@@ -1,0 +1,60 @@
+[
+  {
+    "title": "FUDO",
+    "imageSrc": "projects/project.jpg",
+    "description": "Full-stack Food Delivery App using Next.js with Sanity as CMS and deployed on Vercel.",
+    "skills": ["Next.js", "Sanity", "Vercel"],
+    "demo": "https://fudo-app-eta.vercel.app/",
+    "source": "https://github.com/nancyKasaudhan20/Fudo-app"
+  },
+  {
+    "title": "Youtube clone",
+    "imageSrc": "projects/youtube-img.jpg",
+    "description": "Modern Youtube Clone using React with Tailwind, deployed on Vercel.",
+    "skills": ["React", "Material UI", "Netlify"],
+    "demo": "https://nancy-youtube-clone.netlify.app/",
+    "source": "https://github.com/nancyKasaudhan20/youtube-clone"
+  },
+  {
+    "title": "XCrypto",
+    "imageSrc": "projects/crypto-img.jpg",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "API", "Vercel"],
+    "demo": "https://react-crypto-app-six-sepia.vercel.app/",
+    "source": "https://github.com/nancyKasaudhan20/Crypto-app"
+  }, 
+  {
+    "title": "To-do list",
+    "imageSrc": "projects/todo-img.jpg",
+    "description": "Simple TO-DO list using pure Javascript, HTML, CSS.",
+    "skills": ["HTML", "CSS", "Javascript", "Github"],
+    "demo": "https://nancykasaudhan20.github.io/To-do-list/",
+    "source": "https://github.com/nancyKasaudhan20/To-do-list"
+  },
+  {
+    "title": "DigiSolve",
+    "imageSrc": "projects/digisolve-img.jpg",
+    "description": " A static site showing modern UI.",
+    "skills": ["HTML", "CSS", "Jquery"],
+    "demo": "https://nancykasaudhan20.github.io/DigiSolve/",
+    "source": "https://github.com/nancyKasaudhan20/DigiSolve"
+  },
+  {
+    "title": "BizzWhizz",
+    "imageSrc": "projects/bizwhiss.jpg",
+    "description": "Modern UI design website using pure HTML, CSS, Js.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://nancykasaudhan20.github.io/BizWhizz/",
+    "source": "https://github.com/nancyKasaudhan20/BizWhizz"
+  },
+  {
+    "title": "News Website",
+    "imageSrc": "projects/news.jpg",
+    "description": "New website which fetches data from from an API.",
+    "skills": ["HTML", "Javascript", "CSS" ,"API"],
+    "demo": "https://github.com/nancyKasaudhan20/news-website",
+    "source": "https://github.com/nancyKasaudhan20/news-website"
+  }
+  
+]
+
